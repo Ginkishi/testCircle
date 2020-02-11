@@ -1,0 +1,8 @@
+{
+    "name": "testcircleci/testcircleci",
+    "description": "premier projet sur CircleCI",
+    "type": "project",
+    "license": "1.0",
+    "minimum-stability": "dev",
+    "require": {}
+}
